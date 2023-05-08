@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item android:id="@+id/item1"
+        android:title="@string/dashboard"
+        app:showAsAction= "never">
+        <menu>
+          <item android:id="@+id/subItem1"
+              android:title="@string/course1"/>
+          <item android:id="@+id/subItem2"
+              android:title="@string/course2"/>
+            <item android:id="@+id/subItem3"
+                android:title="@string/course3"/>
+            <item android:id="@+id/subItem4"
+                android:title="@string/course4"/>
+
+
+      </menu>
+    </item>
+
+
+    <item android:id="@+id/item2"
+        android:title="@string/help"
+        app:showAsAction= "never"/>
+    <item android:id="@+id/item5"
+        android:title="@string/tutorial"
+        app:showAsAction= "never"/>
+
+    <item android:id="@+id/item8"
+        android:title="@string/Other"
+        app:showAsAction= "never">
+        <menu>
+            <item android:id="@+id/item3"
+                android:title="@string/Consent"
+                app:showAsAction= "never"/>
+
+            <item android:id="@+id/item4"
+                android:title="@string/Achievements"
+                app:showAsAction= "never"/>
+
+            <item android:id="@+id/item6"
+                android:title="@string/changepass"
+                app:showAsAction= "never"/>
+
+
+        </menu>
+    </item>
+
+
+
+    <item android:id="@+id/item7"
+        android:title="@string/logout"
+        app:showAsAction= "never"/>
+
+
+</menu>

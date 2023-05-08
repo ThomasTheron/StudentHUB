@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/782eecd2e5ecaec3aa97caa35cbf145e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/befe77d3199e93cb14ada9a01a399638/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/808ef216d41685aa0aaf16ba1075af57/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/379ff7a8ccc49afccfbb9f2e963c305e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0bdbc3a00428e78985caf8d173b30e54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/42c9374343fd63851857d3b11db289b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fb11a40e03c4e6af58db91bd098d38a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e31ef0ee7815e9b8e8d58a6baccbac57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/95afba66dc7250e8f34014268ffbd1ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/222150865e32fdc1341650018c3920db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4fe70380475c832b5b05002a9bc8bfff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cee417b7c2d9ede62d31750830a40f88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dc5fac76f9cd695ab43130aa036ca9db/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9ad7a3c337db467019a6e6beb5a21866/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/43bee399282ff1a3acae6487f464af64/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/34a1da8d85d39c4327478a52530ea47f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/04af51c788b954c5583f337b3b2fa7e6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:12:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/808ef216d41685aa0aaf16ba1075af57/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/808ef216d41685aa0aaf16ba1075af57/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:15:9-36
+	android:allowBackup
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:13:9-33
+activity#myappj.example.james.stub.LoginActivity
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:21:9-30:20
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:23:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:27:27-74
+activity#myappj.example.james.stub.DashBordActivity
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:32:9-34:20
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:32:19-51
+activity#myappj.example.james.stub.achivmentsActivity
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:35:19-53
+activity#myappj.example.james.stub.helpPageActivity
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:36:9-54
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:36:19-51
+activity#myappj.example.james.stub.tutorialPageActivity
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:37:9-58
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:37:19-55
+activity#myappj.example.james.stub.ConsentInfoPageActivity
+ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:38:9-61
+	android:name
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml:38:19-58
+uses-sdk
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/782eecd2e5ecaec3aa97caa35cbf145e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/782eecd2e5ecaec3aa97caa35cbf145e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/befe77d3199e93cb14ada9a01a399638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/befe77d3199e93cb14ada9a01a399638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/808ef216d41685aa0aaf16ba1075af57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/808ef216d41685aa0aaf16ba1075af57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/379ff7a8ccc49afccfbb9f2e963c305e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/379ff7a8ccc49afccfbb9f2e963c305e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0bdbc3a00428e78985caf8d173b30e54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0bdbc3a00428e78985caf8d173b30e54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/42c9374343fd63851857d3b11db289b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/42c9374343fd63851857d3b11db289b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fb11a40e03c4e6af58db91bd098d38a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fb11a40e03c4e6af58db91bd098d38a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e31ef0ee7815e9b8e8d58a6baccbac57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e31ef0ee7815e9b8e8d58a6baccbac57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/95afba66dc7250e8f34014268ffbd1ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/95afba66dc7250e8f34014268ffbd1ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/222150865e32fdc1341650018c3920db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/222150865e32fdc1341650018c3920db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4fe70380475c832b5b05002a9bc8bfff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4fe70380475c832b5b05002a9bc8bfff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cee417b7c2d9ede62d31750830a40f88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cee417b7c2d9ede62d31750830a40f88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dc5fac76f9cd695ab43130aa036ca9db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dc5fac76f9cd695ab43130aa036ca9db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9ad7a3c337db467019a6e6beb5a21866/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9ad7a3c337db467019a6e6beb5a21866/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/43bee399282ff1a3acae6487f464af64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/43bee399282ff1a3acae6487f464af64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/34a1da8d85d39c4327478a52530ea47f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/34a1da8d85d39c4327478a52530ea47f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/04af51c788b954c5583f337b3b2fa7e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/thomastheron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/04af51c788b954c5583f337b3b2fa7e6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thomastheron/Desktop/STUB 09 05 29/app/src/main/AndroidManifest.xml
