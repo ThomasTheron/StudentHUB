@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">HUB</string>
+    <string name="title_activity_help_page">helpPage</string>
+
+    <string name="dashboard">Grades Dashboard</string>
+    <string name="course1">HUB1020S</string>
+    <string name="course2">IBS1007S</string>
+    <string name="course3">HUB1019f</string>
+    <string name="course4">HUB1006f</string>
+
+    <string name="help">Student Help</string>
+    <string name="Other">Other</string>
+    <string name="Consent">Terms and Conditions </string>
+    <string name="Achievements">Achievements</string>
+    <string name="tutorial">Tutorial Sign Up Link</string>
+    <string name="changepass">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_personal_info_page">Consent Form</string>
+
+    <string name="GOT">Marks Acquired</string>
+    <string name="FUTUTRE">Marks available in future assessments</string>
+    <string name="LOST">Marks Lost</string>
+
+    <string name="consentInfo"> By downloading or using the HUB app, these terms and conditions will apply to you:
+
+You may use this app without cost, but you may not send it on to anyone who is not a student at the University of Cape Town. You may not copy or modify the app or any part of the app.
+You may not attempt to extract the source code of the app.
+
+You must be a registered UCT student.
+You must not share your password with anyone.
+UCT will not ask for your password.
+You should not reuse an old password or a password you have used for another account or services. PLEASE DO NOT USE YOUR VULA PASSWORD AS THE PASSWORD FOR THIS APP. If you have used a password for another account or service please use our change password function immediately
+
+All intellectual property rights related to this app still belong to the University of Cape Town.
+We reserve the right to make changes to the app, withdraw the app at any time and for any reason.
+
+Should you use the app without being connected to a Wi-Fi source, you should consider the terms of agreement with your mobile network provider. They may still apply and as a result,
+you may be charged by your mobile provider for the cost of data used by the app. In using the app, you are accepting responsibility for any such charges,
+including roaming data charges. If you are not the bill-payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill-payer for using the app.
+
+By pressing the AGREE button at the bottom of your screen, you acknowledge that you have read the above text.
+
+</string>
+
+    <string-array name="listItemTilesHeading">
+    <item>"Course Average</item>
+    <item>"Assessment Marks</item>
+    <item>"Practical Marks</item>
+    \
+</string-array> <string-array name="listItemTilesHeading2">
+    <item>"Course Average</item>
+    <item>"Assessment Marks</item>
+    <item>"Practical Marks</item>
+    \
+</string-array>
+
+
+
+
+    <string-array name="listItemhHeading">
+        <item>"WELLNESS SUPPORT</item>
+        <item>"COUNSELLING SERVICES </item>
+        <item>"ACADEMIC SUPPORT</item>
+        <item>"EMERGENCY CONTACT</item>
+        <item>"TECHNICAL SUPPORT</item>
+    </string-array>
+
+    <string-array name="listItemhbodys">
+        <item>"UCT Student Wellness Centre offers a comprehensive outpatient health service by both medical practitioners and nurses, who are dedicated to helping students to remain healthy, and to make the correct life choices while pursuing their academic goals. Students are encouraged to seek assistance and guidance as early as possible.
+
+            Medical Services Tel: +27 (0)21 650 1020
+            Counselling Services Tel: +27 (0)21 650 1017
+
+Toll free numbers to call when you are in distress: UCT Student Careline: 0800 24 25 26 free from a Telkom line or SMS 31393 for a call-me-back.
+</item>
+        <item>"Student Wellness Service Available at the Health Science Campus. The physical, emotional and mental health of our students is of great importance to us. We have been expanding our support services team and have more staff available to assist you in providing wellness support.
+
+PSYCHOSOCIAL and SOCIAL WORKER SUPPORT
+
+The first stop for any challenges or issues undergraduate students may be facing is Nonkosi Malala. She will be able to refer you to the appropriate structures or person who will be able to assist you. She can be reached on 021 406 6749 or Nonkosi.Malala@uct.ac.za .
+
+Emergency Contacts: https://uct.ac.za/students/support-emergencies/emergency-contacts
+
+</item>
+        <item>"Tutors are available to offer a wide range of support in key first and second year subjects. For more information regarding these tutorials email: theHUBUCT@gmail.com
+</item>
+
+    </string-array>
+
+    <string-array name="listItemshLinks">
+        <item>"http://www.students.uct.ac.za/students/support/health-counselling/student-wellness</item>
+        <item>"http://www.health.uct.ac.za/sites/default/files/image_tool/images/116/documents/FHS%20Counselling%20Service%20Available%20at%20Health%20Science%20Campus%20Poster%20updated%20April2018.pdf</item>
+        <item>"https://www.google.com/gmail/</item>
+        <item>"http://www.uct.ac.za/main/contacts/emergency</item>
+        <item>"https://www.google.com/gmail/</item>
+    </string-array>
+
+
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Student Number</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This student number address is invalid</string>
+    <string name="error_invalid_password">This password is incorrect or you do not have an account</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="RegesterText">Register for STUB</string>
+    <string name="noNetworkErrorText">No network connection. App will not work!</string>
+    <string name="RequestValidSN">Please input valid student number first.</string>
+
+    <string name="passwordchangeNo">There seems to be a problem with this service.</string>
+    <string name="passwordchangeYes">An email has been sent to your student email.</string>
+
+
+    <string name="tutor">Tutor</string>
+
+    <string name="signUp">Sign up</string>
+    <string name="signDown">Cancel Sign up</string>
+
+
+    <string-array name="listItemTilesAchHeading">
+        <item>"STUB App User</item>
+        <item>"Help Investigator</item>
+        <item>"Tutorial Attender</item>
+        <item>"Password Changer</item>
+
+    </string-array>
+    <string-array name="listItemTilesAchdescription">
+        <item>"Log into the Stub app</item>
+        <item>"Use the help links on the help page.</item>
+        <item>"Sign up to tutorials through the Stub app.</item>
+        <item>"Use the change password feature.</item>
+
+    </string-array>
+
+    <string name="defaultAchievmentStart">,1,0,0,0</string>
+
+    <string name="tutSignUpLink"> https://stuhub.cs.uct.ac.za/tut_signup.php</string>
+    <string name="achivmentMotivator">points so far. Next reward at</string>
+    <string name="achivmentCompleated">points. Well done</string>
+    <string name="points"> points.</string>
+</resources>
